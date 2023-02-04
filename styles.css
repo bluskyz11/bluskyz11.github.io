@@ -1,0 +1,40 @@
+h1 {
+    background-color: rgb(248, 226, 99);
+}
+
+img {
+    width: 1;
+}
+
+
+
+/* nav bar */
+nav {
+    background-color: black;
+}
+
+ul {
+    list-style-type: none;
+    background-color: #000000;
+    overflow: hidden;
+    padding: 1em;
+  }
+  
+  li {
+    display: inline;
+  }
+  
+  li a {
+    color:#ffffff;
+    font-family: Courier New;
+    text-decoration: none;
+    font-size:1em;
+    font-size:1.3em;
+    padding-right:1.3em;
+  }
+  
+  li a:hover {
+    background-color:#493152;
+    padding: 0.5em;
+    
+  }
