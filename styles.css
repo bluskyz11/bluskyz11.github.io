@@ -28,13 +28,12 @@ ul {
     color:#ffffff;
     font-family: Courier New;
     text-decoration: none;
-    font-size:1em;
     font-size:1.3em;
-    padding-right:1.3em;
+    /*padding-right:1.3em;*/
+    border-right: 1.3em;
   }
   
   li a:hover {
     background-color:#493152;
-    padding: 0.5em;
-    
+
   }
